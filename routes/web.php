@@ -1,7 +1,7 @@
 <?php
 
-use Illuminate\Support\Facades\Route;
-
+use Illuminate\Support\Facades\Route; // Mengimpor fasad Route untuk mendefinisikan rute aplikasi
+use App\Http\Controllers\ItemController; // Mengimpor ItemController agar bisa digunakan dalam rute
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,6 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('/', function () { // Mendefinisikan rute untuk halaman utama ('/')
+    return view('welcome'); // Mengembalikan tampilan 'welcome.blade.php'
 });
+
+Route::resource('items', ItemController::class); // Menggunakan resource controller untuk secara otomatis membuat semua rute CRUD untuk 'items'
