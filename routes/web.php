@@ -18,3 +18,40 @@ Route::get('/', function () { // Mendefinisikan rute untuk halaman utama ('/')
 });
 
 Route::resource('items', ItemController::class); // Menggunakan resource controller untuk secara otomatis membuat semua rute CRUD untuk 'items'
+
+Route::get('/hello', function () {
+    return 'Hello World';
+});
+
+Route::get('/world', function () {
+    return 'World';
+});
+
+Route::get('/', function () {
+    return 'Selamat Datang';
+});
+
+Route::get('about', function () {
+    return 'Nim : 2341720038 <br> Nama : Cindy Laili Larasati';
+});
+
+Route::get('/user/{Cindy}', function ($name) {
+    return 'Nama saya '.$name;
+});
+
+Route::get('/posts/{post}/comments/{comment}', function
+($postId, $commentId) {
+ return 'Pos ke-'.$postId." Komentar ke-: ".$commentId;
+});
+
+Route::get('/articles/{id}', function ($Id) {
+ return 'Halaman Artikel dengan ID '.$Id;
+});
+
+Route::get('/user/{name?}', function ($name=null) {
+    return 'Nama saya '.$name;
+});
+
+// Route::get('/user/{name?}', function ($name='John') {
+//     return 'Nama saya '.$name;
+// });
