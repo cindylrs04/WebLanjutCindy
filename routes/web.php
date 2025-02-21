@@ -67,3 +67,7 @@ Route::get('/about', [AboutController::class,'about']);
 Route::get('/articles{id}', [ArticleController::class,'articles']);
 
 Route::resource('photos', PhotoController::class);
+
+Route::get('/greeting', [WelcomeController::class,
+'greeting']);
+    
