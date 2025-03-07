@@ -43,3 +43,16 @@
 <p>langkah 3<p align="center">
    <img src="Gambar/gambarP2.3No3.png"></p>
 <hr>
+
+<b>Praktikum 2.4 - Retreiving Aggregrates</b>
+<p>langkah 3<p align="center">
+    <img src="Gambar/gambarP2.4No3.png"></p>
+<p>langkah 5<p align="center">
+    <img src="Gambar/gambarP2.4No5.png"></p>
+<p>langkah 7<p align="center">
+    <img src="Gambar/gambarP2.4No7.png"></p>
+<p>langkah 9<p align="center">
+    <img src="Gambar/gambarP2.4No9.png"></p>
+<p>langkah 11<p align="center">
+    <img src="Gambar/gambarP2.4No11.png"></p>
+<hr>
