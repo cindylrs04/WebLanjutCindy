@@ -24,6 +24,10 @@
     <img src="Gambar/gambarP2.1No3.png"></p>
 <p>langkah 7<p align="center">
     <img src="Gambar/gambarP2.1No3.png"></p>
+<p>langkah 9<p align="center">
+    <img src="Gambar/gambarP2.1No9.png"></p>
+<p>langkah 11<p align="center">
+    <img src="Gambar/gambarP2.1No11.png"></p>
 <hr>
 
 <b>Praktikum 2.2 - Not Found Exceptions</b>
