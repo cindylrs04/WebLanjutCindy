@@ -55,4 +55,12 @@
     <img src="Gambar/gambarP2.4No9.png"></p>
 <p>langkah 11<p align="center">
     <img src="Gambar/gambarP2.4No11.png"></p>
+     <img src="Gambar/gambarP2.4No11.2.png"></p>
+<hr>
+
+<b>Praktikum 2.5 – Attribute Changes</b>
+<p>langkah 2<p align="center">
+    <img src="Gambar/gambarP2.5No2.png"></p>
+<p>langkah 4<p align="center">
+    <img src="Gambar/gambarP2.5No4.png"></p>
 <hr>
