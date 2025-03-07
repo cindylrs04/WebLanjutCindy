@@ -79,3 +79,10 @@
 <p>langkah 20<p align="center">
     <img src="Gambar/gambarP2.6No20.png"></p>
 <hr>
+
+<b>Praktikum 2.7 – Relationships</b>
+<p>langkah 3<p align="center">
+    <img src="Gambar/gambarP2.6No3.png"></p>
+<p>langkah 6<p align="center">
+    <img src="Gambar/gambarP2.7No6.png"></p>
+<hr>
