@@ -9,8 +9,28 @@
 <hr>
 
 <b>Praktikum 1 - $fillable</b>
-<p>3.<p align="center">
+<p>langkah 3<p align="center">
     <img src="Gambar/gambarP1No3.png"></p>
-<p>6. jika kolom di fillable di hapus maka akan seperti gambar di bawah
+<p>langkah 6 
+<p>jika kolom di fillable di hapus maka akan seperti gambar di bawah
 <p align="center">
     <img src="Gambar/gambarP1No6.png"></p>
+<hr>
+
+<b>Praktikum 2.1 - Retrieving Single Models</b>
+<p>langkah 3<p align="center">
+    <img src="Gambar/gambarP2.1No3.png"></p>
+<p>langkah 5<p align="center">
+    <img src="Gambar/gambarP2.1No3.png"></p>
+<p>langkah 7<p align="center">
+    <img src="Gambar/gambarP2.1No3.png"></p>
+<hr>
+
+<b>Praktikum 2.2 - Not Found Exceptions</b>
+<p>langkah 3<p align="center">
+    <img src="Gambar/gambarP2.1No3.png"></p>
+<p>langkah 5<p align="center">
+    <img src="Gambar/gambarP2.1No3.png"></p>
+<p>langkah 7<p align="center">
+    <img src="Gambar/gambarP2.1No3.png"></p>
+<hr>
