@@ -64,3 +64,18 @@
 <p>langkah 4<p align="center">
     <img src="Gambar/gambarP2.5No4.png"></p>
 <hr>
+
+<b>Praktikum 2.6 – Create, Read, Update, Delete (CRUD)</b>
+<p>langkah 3<p align="center">
+    <img src="Gambar/gambarP2.6No3.png"></p>
+<p>langkah 7<p align="center">
+    <img src="Gambar/gambarP2.6No7.png"></p>
+<p>langkah 10<p align="center">
+    <img src="Gambar/gambarP2.6No10.png"></p>
+<p>langkah 14<p align="center">
+    <img src="Gambar/gambarP2.6No14.png"></p>
+<p>langkah 17<p align="center">
+    <img src="Gambar/gambarP2.6No17.png"></p>
+<p>langkah 20<p align="center">
+    <img src="Gambar/gambarP2.6No20.png"></p>
+<hr>
