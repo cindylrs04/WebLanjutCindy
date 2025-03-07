@@ -31,10 +31,8 @@
 <hr>
 
 <b>Praktikum 2.2 - Not Found Exceptions</b>
-<p>langkah 3<p align="center">
+<p>langkah 2<p align="center">
     <img src="Gambar/gambarP2.1No3.png"></p>
-<p>langkah 5<p align="center">
-    <img src="Gambar/gambarP2.1No3.png"></p>
-<p>langkah 7<p align="center">
-    <img src="Gambar/gambarP2.1No3.png"></p>
+<p>langkah 4<p align="center">
+   <img src="Gambar/gambarP2.1No11.png"></p>
 <hr>
