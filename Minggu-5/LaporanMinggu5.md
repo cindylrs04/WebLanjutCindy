@@ -15,6 +15,17 @@
 <hr>
 
 <b>Praktikum 2 – Integrasi dengan DataTables</b></p>
+<p>langkah 16
+<p align="center">
+    <img src="Gambar/P2.15.png"></p>
+    <img src="Gambar/P2.16.png"></p>
+<hr>
 
 <b>Praktikum 3 – Membuat form kemudian menyimpan data dalam database</b></p>
-
+<p>langkah 5
+<p align="center">
+    <img src="Gambar/P3.5.png"></p>
+<p>langkah 6
+<p align="center">
+    <img src="Gambar/P3.6.png"></p>
+<hr>
