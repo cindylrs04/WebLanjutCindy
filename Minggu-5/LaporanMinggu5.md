@@ -35,6 +35,10 @@
 <p align="center">
     <img src="Gambar/T1.png"></p>
 
+<p>No 2 
+<p align="center">
+    <img src="Gambar/T2.png"></p>
+
 <p>No 3 
 <p align="center">
     <img src="Gambar/P3.6.png"></p>

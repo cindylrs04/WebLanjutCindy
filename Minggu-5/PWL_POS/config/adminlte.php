@@ -306,6 +306,12 @@ return [
             'topnav_right' => true,
         ],
         [
+            'text' => 'Manage Kategori', // add navbar manage kategori
+            'url' => '/kategori',
+            'icon' => 'fas fa-folder',
+            'topnav' => true,
+        ],
+        [
             'type' => 'fullscreen-widget',
             'topnav_right' => true,
         ],
