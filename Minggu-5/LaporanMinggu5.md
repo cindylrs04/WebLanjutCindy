@@ -29,3 +29,17 @@
 <p align="center">
     <img src="Gambar/P3.6.png"></p>
 <hr>
+ 
+ <b>Tugas Praktikum</b></p>
+<p>No 1
+<p align="center">
+    <img src="Gambar/T1.png"></p>
+
+<p>No 3 
+<p align="center">
+    <img src="Gambar/P3.6.png"></p>
+
+<p>No 4 
+<p align="center">
+    <img src="Gambar/P3.6.png"></p>
+<hr>
