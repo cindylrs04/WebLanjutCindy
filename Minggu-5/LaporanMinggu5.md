@@ -41,7 +41,8 @@
 
 <p>No 3 
 <p align="center">
-    <img src="Gambar/P3.6.png"></p>
+    <img src="Gambar/T3.1.png"></p>
+    <img src="Gambar/T3.2.png"></p>
 
 <p>No 4 
 <p align="center">
