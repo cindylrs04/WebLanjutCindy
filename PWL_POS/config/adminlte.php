@@ -312,6 +312,12 @@ return [
             'topnav' => true,
         ],
         [
+            'text' => 'Manage Barang', // add navbar manage barang
+            'url' => '/barang',
+            'icon' => 'fas fa-tags',
+            'topnav' => true,
+        ],
+        [
             'type' => 'fullscreen-widget',
             'topnav_right' => true,
         ],
