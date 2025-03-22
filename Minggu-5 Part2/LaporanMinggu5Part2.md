@@ -12,4 +12,12 @@
 <b>Praktikum 2 – Penerapan Layouting</b></p>
 <b>Praktikum 3 – Implementasi jQuery Datatable di AdminLTE</b></p>
 <b>Praktikum 4 – Implementasi Filtering Datatables</b></p>
- <b>- Tugas Praktikum -</b></p>
+<b>- Tugas Praktikum -</b></p>
+<p align="center">
+    <img src="Gambar/T1.png"></p>
+<p align="center">
+    <img src="Gambar/T2.png"></p>
+<p align="center">
+    <img src="Gambar/T3.png"></p>
+<p align="center">
+    <img src="Gambar/T4.png"></p>

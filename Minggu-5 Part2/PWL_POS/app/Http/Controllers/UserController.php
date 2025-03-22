@@ -264,57 +264,56 @@ class UserController extends Controller
         ]);
     }
 
-     // Ambil data user dalam bentuk JSON untuk DataTables
-     public function list(Request $request)
-     {
-         $users = UserModel::select('user_id', 'username', 'nama', 'level_id')
-             ->with('level');
- 
-         // Filter data user berdasarkan level_id
-         if ($request->level_id) {
-             $users->where('level_id', $request->level_id);
-         }
- 
-         return DataTables::of($users)
-             ->addIndexColumn() // Menambahkan kolom index / nomor urut (default: DT_RowIndex)
-             ->addColumn('aksi', function ($user) { // Menambahkan kolom aksi
-                 $btn  = '<a href="' . url('/user/' . $user->user_id) . '" class="btn btn-info btn-sm">Detail</a> ';
-                 $btn .= '<a href="' . url('/user/' . $user->user_id . '/edit') . '" class="btn btn-warning btn-sm">Edit</a> ';
-                 $btn .= '<form class="d-inline-block" method="POST" action="' . url('/user/' . $user->user_id) . '">'
-                     . csrf_field() . method_field('DELETE') .
-                     '<button type="submit" class="btn btn-danger btn-sm" onclick="return confirm(\'Apakah Anda yakin menghapus data ini?\');">Hapus</button>
-                 </form>';
-                 return $btn;
-             })
-             ->rawColumns(['aksi']) // Memberitahu bahwa kolom aksi mengandung HTML
-             ->make(true);
-     }
- 
+    // Ambil data user dalam bentuk JSON untuk DataTables
+    public function list(Request $request)
+    {
+        $users = UserModel::select('user_id', 'username', 'nama', 'level_id')
+            ->with('level');
 
-     // Menampilkan halaman form tambah user
-     public function create()
-     {
-         $breadcrumb = (object) [
-             'title' => 'Tambah User',
-             'list'  => ['Home', 'User', 'Tambah']
-         ];
- 
-         $page = (object) [
-             'title' => 'Tambah user baru'
-         ];
- 
-         $level = LevelModel::all(); // Ambil data level untuk ditampilkan di form
-         $activeMenu = 'user'; // Set menu yang sedang aktif
- 
-         return view('user.create', [
-             'breadcrumb' => $breadcrumb,
-             'page'       => $page,
-             'level'      => $level,
-             'activeMenu' => $activeMenu
-         ]);
-     }
+        // Filter data user berdasarkan level_id
+        if ($request->level_id) {
+            $users->where('level_id', $request->level_id);
+        }
 
-     // Menyimpan data user baru
+        return DataTables::of($users)
+            ->addIndexColumn() // Menambahkan kolom index / nomor urut (default: DT_RowIndex)
+            ->addColumn('aksi', function ($user) { // Menambahkan kolom aksi
+                $btn  = '<a href="' . url('/user/' . $user->user_id) . '" class="btn btn-info btn-sm">Detail</a> ';
+                $btn .= '<a href="' . url('/user/' . $user->user_id . '/edit') . '" class="btn btn-warning btn-sm">Edit</a> ';
+                $btn .= '<form class="d-inline-block" method="POST" action="' . url('/user/' . $user->user_id) . '">'
+                    . csrf_field() . method_field('DELETE') .
+                    '<button type="submit" class="btn btn-danger btn-sm" onclick="return confirm(\'Apakah Anda yakin menghapus data ini?\');">Hapus</button>
+                </form>';
+                return $btn;
+            })
+            ->rawColumns(['aksi']) // Memberitahu bahwa kolom aksi mengandung HTML
+            ->make(true);
+    }
+
+    // Menampilkan halaman form tambah user
+    public function create()
+    {
+        $breadcrumb = (object) [
+            'title' => 'Tambah User',
+            'list'  => ['Home', 'User', 'Tambah']
+        ];
+
+        $page = (object) [
+            'title' => 'Tambah user baru'
+        ];
+
+        $level = LevelModel::all(); // Ambil data level untuk ditampilkan di form
+        $activeMenu = 'user'; // Set menu yang sedang aktif
+
+        return view('user.create', [
+            'breadcrumb' => $breadcrumb,
+            'page'       => $page,
+            'level'      => $level,
+            'activeMenu' => $activeMenu
+        ]);
+    }
+
+    // Menyimpan data user baru
     public function store(Request $request)
     {
         $request->validate([
@@ -428,6 +427,5 @@ class UserController extends Controller
             return redirect('/user')->with('error', 'Data user gagal dihapus karena masih terdapat tabel lain yang terkait dengan data ini');
         }
     }
- 
 
 }
