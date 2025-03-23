@@ -28,10 +28,13 @@
 
 <b>- Tugas Praktikum -</b></p>
 <p align="center">
-    <img src="Gambar/P1.png"></p>
+    <img src="Gambar/T1.png"></p>
+
 <p align="center">
     <img src="Gambar/T2.png"></p>
+
 <p align="center">
     <img src="Gambar/T3.png"></p>
+
 <p align="center">
     <img src="Gambar/T4.png"></p>
