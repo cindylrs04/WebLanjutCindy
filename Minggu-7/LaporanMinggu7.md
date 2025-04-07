@@ -14,10 +14,16 @@
 <hr>
 
 <b>Praktikum 2 - Implementasi Authorizaton di Laravel dengan Middleware</b></p>
+<P>Jika login sebagai admin dapat mengakses halaman level user</P>
 <p align="center">
-    <img src="Gambar/P2_1.png"></p>
-    <p align="center">
-    <img src="Gambar/P2_2.png"></p>
+    <img src="Gambar/P2.1.png"></p>
+<p align="center">
+    <img src="Gambar/P2.2.png"></p>
+
+<P>Jika login sebagai selain admin maka tidak dapat mengakses halaman level user</P>
+<p align="center">
+    <img src="Gambar/P2.3.png"></p>
+<hr>
     
 <b>Praktikum 3 - Implementasi Multi-Level Authorizaton di Laravel dengan Middleware</b></p>
 <p align="center">
