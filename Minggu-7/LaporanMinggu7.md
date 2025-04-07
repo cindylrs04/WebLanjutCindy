@@ -27,6 +27,5 @@
     
 <b>Praktikum 3 - Implementasi Multi-Level Authorizaton di Laravel dengan Middleware</b></p>
 <p align="center">
-    <img src="Gambar/P3_1.png"></p>
-    <p align="center">
-    <img src="Gambar/P3_2.png"></p>
+    <img src="Gambar/P3.png"></p>
+    
