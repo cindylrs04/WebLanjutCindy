@@ -53,8 +53,28 @@ kembali</p>
 <p>jawab :</p>
 <p>- Mengontrol akses ke halaman tertentu sesuai dengan peran pengguna (seperti admin, kasir, dan sebagainya).</p>
 <p>- Meningkatkan keamanan aplikasi dengan menambahkan middleware otorisasi (AuthorizeUser).</p>
+<hr>
 
 <b>Praktikum 3 - Implementasi Multi-Level Authorizaton di Laravel dengan Middleware</b></p>
 <p align="center">
     <img src="Gambar/P3.png"></p>
-    
+<hr>
+
+<b>Tugas 3 - Implementasi Multi-Level Authorization</b></p>
+<p>1. Silahkan implementasikan multi-level authorization pada project kalian masing-masing</p>
+<p>3. Implementasikan multi-level authorization untuk semua Level/Jenis User dan Menu - menu yang sesuai dengan Level/Jenis User</p>
+<p>jawab : </p>
+<p>Modifikasi pada route untuk implementasi multi-level auth</p>
+<p align="center">
+    <img src="Gambar/T3.1.png"></p>
+<p align="center">
+    <img src="Gambar/T3.2.png"></p>
+<p align="center">
+    <img src="Gambar/T3.3.png"></p>
+<p align="center">
+    <img src="Gambar/T3.4.png"></p>
+<p align="center">
+    <img src="Gambar/T3.5.png"></p>
+<hr>
+
+
