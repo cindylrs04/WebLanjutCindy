@@ -77,4 +77,26 @@ kembali</p>
     <img src="Gambar/T3.5.png"></p>
 <hr>
 
+<b>Tugas 4 - Implementasi Form Registrasi</b></p>
+<p>1. Silahkan implementasikan form untuk registrasi user. </p>
+<p>jawab : </p>
+<p>- tambahkan function register pada AuthController.php</p>
+<p align="center">
+    <img src="Gambar/T4.1.png"></p>
+    <p align="center">
+    <img src="Gambar/T4.2.png"></p>
 
+<p>- buat file register.blade.php di dalam folder resources/views/auth</p>
+<p align="center">
+    <img src="Gambar/T4.3.png"></p>
+
+<p>- tambahkan kode pada routes</p>
+<p align="center">
+    <img src="Gambar/T4.4.png"></p>
+
+<p>2. Screenshot hasil yang kalian kerjakan</p>
+<p>jawab : </p>
+<p align="center">
+    <img src="Gambar/T4.5.png"></p>
+<p align="center">
+    <img src="Gambar/T4.6.png"></p>
