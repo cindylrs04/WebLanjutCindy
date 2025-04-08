@@ -12,7 +12,7 @@
 <p align="center">
     <img src="Gambar/P1.png"></p>
 <hr>
-<b>Tugas 1 -  Implementasi Authentication</b></p>
+<b>Tugas 1 - Implementasi Authentication</b></p>
 <p>1. Silahkan implementasikan proses login pada project kalian masing-masing</p>
 <p>2. Silahkan implementasi proses logout pada halaman web yang kalian buat</p> 
 <p>jawab :</p>
@@ -47,7 +47,13 @@ kembali</p>
 <p align="center">
     <img src="Gambar/P2.3.png"></p>
 <hr>
-    
+
+<b>Tugas 2 - Implementasi Authoriization</b></p>
+<p>1. Apa yang kalian pahami pada praktikum 2 ini?</p>
+<p>jawab :</p>
+<p>- Mengontrol akses ke halaman tertentu sesuai dengan peran pengguna (seperti admin, kasir, dan sebagainya).</p>
+<p>- Meningkatkan keamanan aplikasi dengan menambahkan middleware otorisasi (AuthorizeUser).</p>
+
 <b>Praktikum 3 - Implementasi Multi-Level Authorizaton di Laravel dengan Middleware</b></p>
 <p align="center">
     <img src="Gambar/P3.png"></p>
