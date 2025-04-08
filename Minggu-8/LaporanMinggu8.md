@@ -8,7 +8,7 @@
 <b>Nama : Cindy Laili Larasati</b>
 <hr>
 
-<b>Praktikum 1 - Implementasi Authentication<b>
+<b>Praktikum 1 - Implementasi Upload File untuk import data<b>
 <p align="center">
     <img src="Gambar/P1.png"></p>
 <hr>
