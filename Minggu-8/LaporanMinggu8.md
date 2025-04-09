@@ -46,3 +46,24 @@ menu </p>
 <p align="center">
     <img src="Gambar/P2.png"></p>
 <hr>
+
+<b>Tugas 2 – Implementasi File Export Excel<b>
+<p>1. Silahkan implementasikan praktikum 2 pada project kalian masing-masing untuk semua 
+menu</p>
+<p>jawab :</p>
+<p>- level</p>
+<p align="center">
+    <img src="Gambar/T2.1.png"></p>
+
+<p>- User</p>
+<p align="center">
+    <img src="Gambar/T2.2.png"></p>
+
+<p>- Kategori</p>
+<p align="center">
+    <img src="Gambar/T2.3.png"></p>
+
+<p>- Supplier</p>
+<p align="center">
+    <img src="Gambar/T2.4.png"></p>
+<hr>
