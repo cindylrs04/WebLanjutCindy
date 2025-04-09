@@ -12,3 +12,32 @@
 <p align="center">
     <img src="Gambar/P1.png"></p>
 <hr>
+
+<b>Tugas 1 - Implementasi File Upload untuk Import Data<b>
+<p>1. Silahkan implementasikan praktikum 1 pada project kalian masing-masing untuk semua 
+menu </p>
+<p>jawab :</p>
+<p>- level</p>
+<p align="center">
+    <img src="Gambar/T1.1.png"></p>
+<p align="center">
+    <img src="Gambar/T1.2.png"></p>
+
+<p>- User</p>
+<p align="center">
+    <img src="Gambar/T1.3.png"></p>
+<p align="center">
+    <img src="Gambar/T1.4.png"></p>
+
+<p>- Kategori</p>
+<p align="center">
+    <img src="Gambar/T1.5.png"></p>
+<p align="center">
+    <img src="Gambar/T1.6.png"></p>
+
+<p>- Supplier</p>
+<p align="center">
+    <img src="Gambar/T1.7.png"></p>
+<p align="center">
+    <img src="Gambar/T1.8.png"></p>
+<hr>
