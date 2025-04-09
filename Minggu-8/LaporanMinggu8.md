@@ -41,3 +41,8 @@ menu </p>
 <p align="center">
     <img src="Gambar/T1.8.png"></p>
 <hr>
+
+<b>Praktikum 2 – Export Data ke Excel <b>
+<p align="center">
+    <img src="Gambar/P2.png"></p>
+<hr>
