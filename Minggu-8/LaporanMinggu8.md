@@ -67,3 +67,8 @@ menu</p>
 <p align="center">
     <img src="Gambar/T2.4.png"></p>
 <hr>
+
+<b>Praktikum 3 – Implementasi Export PDF di Laravel dengan dompdf<b>
+<p align="center">
+    <img src="Gambar/P3.png"></p>
+<hr>
