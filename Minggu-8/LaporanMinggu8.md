@@ -72,3 +72,36 @@ menu</p>
 <p align="center">
     <img src="Gambar/P3.png"></p>
 <hr>
+
+<b>Tugas 3 – Implementasi Export PDF pada Laravel<b>
+<p>1. Silahkan implementasikan export pdf pada project kalian masing-masing untuk semua 
+menu </p>
+<p>jawab :</p>
+<p>- level</p>
+<p align="center">
+    <img src="Gambar/T3.1.png"></p>
+<p align="center">
+    <img src="Gambar/T3.2.png"></p>
+
+<p>- user</p>
+<p align="center">
+    <img src="Gambar/T3.3.png"></p>
+<p align="center">
+    <img src="Gambar/T3.4.png"></p>
+
+<p>- kategori</p>
+<p align="center">
+    <img src="Gambar/T3.5.png"></p>
+<p align="center">
+    <img src="Gambar/T3.6.png"></p>
+
+<p>- supplier</p>
+<p align="center">
+    <img src="Gambar/T3.7.png"></p>
+<p align="center">
+    <img src="Gambar/T3.8.png"></p>
+    
+<p></p>
+<p></p>
+<p></p>
+<p></p>
