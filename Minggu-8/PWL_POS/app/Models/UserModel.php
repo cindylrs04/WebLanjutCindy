@@ -33,10 +33,10 @@ class UserModel extends Authenticatable
 
     protected $casts = ['password' => 'hashed'];
 
-    //public function level():BelongsTo {
+    public function level():BelongsTo {
 
-        //return $this->belongsTo(LevelModel::class, 'level_id', 'level_id');
-    //}
+        return $this->belongsTo(LevelModel::class, 'level_id', 'level_id');
+    }
 
     // Mendapatkan nama role
     public function getRoleName(): string
