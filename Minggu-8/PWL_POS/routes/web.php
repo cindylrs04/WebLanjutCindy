@@ -284,5 +284,6 @@ Route::middleware(['auth'])->group(function () { // artinya semua route di dalam
     Route::group(['prefix' => 'profile'], function () {
         Route::get('/', [ProfileController::class, 'index']);
         Route::post('/update_photo', [ProfileController::class, 'update_photo']);
-    });    
+    });  
+    
 });
