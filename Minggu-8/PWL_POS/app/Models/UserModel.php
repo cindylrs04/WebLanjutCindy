@@ -21,16 +21,22 @@ class UserModel extends Authenticatable
         'nama',
         'password',
         'created_at',
-        'updated_at'
+        'updated_at',
+        'foto'
     ];
 
     protected $hidden = ['password'];
 
+    // public function level():BelongsTo{
+    //     return $this->belongsTo(LevelModel::class, 'level_id','level_id');
+    // }
+
     protected $casts = ['password' => 'hashed'];
 
-    public function level():BelongsTo{
-        return $this->belongsTo(LevelModel::class, 'level_id','level_id');
-    }
+    //public function level():BelongsTo {
+
+        //return $this->belongsTo(LevelModel::class, 'level_id', 'level_id');
+    //}
 
     // Mendapatkan nama role
     public function getRoleName(): string

@@ -100,8 +100,20 @@ menu </p>
     <img src="Gambar/T3.7.png"></p>
 <p align="center">
     <img src="Gambar/T3.8.png"></p>
-    
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<hr>
+
+<b>Tugas 4 – Implementasi Upload File Gambar<b>
+<p>1. Silahkan implementasikan fitur upload file untuk mengubah foto profile di project web 
+kalian </p>
+<p>Jawab :</p>
+<p>sebelum di ubah foto profil</p>
+<p align="center">
+    <img src="Gambar/T4.1.png"></p>
+
+<p>setelah di ubah foto profil</p>
+<p align="center">
+    <img src="Gambar/T4.2.png"></p>
+<p align="center">
+    <img src="Gambar/T4.3.png"></p>
+    <p align="center">
+    <img src="Gambar/T4.4.png"></p>

@@ -8,6 +8,7 @@ use App\Http\Controllers\WelcomeController;
 use App\Http\Controllers\BarangController;
 use App\Http\Controllers\SupplierController;
 use App\Http\Controllers\AuthController;
+use App\Http\Controllers\ProfileController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -279,4 +280,9 @@ Route::middleware(['auth'])->group(function () { // artinya semua route di dalam
         Route::get('/export_excel', [BarangController::class, 'export_excel']); // menampilkan halaman form export excel barang ajax
         Route::get('/export_pdf', [BarangController::class, 'export_pdf']); // menampilkan halaman form export pdf barang
     });
+
+    Route::group(['prefix' => 'profile'], function () {
+        Route::get('/', [ProfileController::class, 'index']);
+        Route::post('/update_photo', [ProfileController::class, 'update_photo']);
+    });    
 });
