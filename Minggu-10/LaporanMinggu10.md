@@ -34,3 +34,8 @@ localhost/PWL_POS/public/api/user dan method GET.</p>
     <img src="Gambar/P2.4.png"></p>
 <p>Kode HTML muncul karena kita akses API tanpa login dulu atau belum punya izin yang valid. Server anggap kita belum login, jadi langsung ngarahin ke halaman login, makanya yang muncul di Postman adalah tampilan HTML dari halaman login, bukan data JSON seperti yang kita harapkan.</p>
 <hr>
+
+<b>Praktikum 3 – Membuat RESTful API Logout<b>
+<p align="center">
+    <img src="Gambar/P3.png"></p>
+<hr>
