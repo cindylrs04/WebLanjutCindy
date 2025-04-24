@@ -14,3 +14,23 @@
 <p align="center">
     <img src="Gambar/P1.2.png"></p>
 <hr>
+
+<b>Praktikum 2 - Membuat RESTful API Login<b>
+<p align="center">
+    <img src="Gambar/P2.png"></p>
+<p align="center">
+    <img src="Gambar/P2.2.png"></p>
+
+<p>6. Lakukan percobaan yang untuk data yang salah dan berikan screenshoot hasil percobaan
+Anda.
+</p>
+<p align="center">
+    <img src="Gambar/P2.3.png"></p>
+
+<p>7. Coba kembali melakukan login dengan data yang benar. Sekarang mari kita coba
+menampilkan data user yang sedang login menggunakan URL
+localhost/PWL_POS/public/api/user dan method GET.</p>
+<p align="center">
+    <img src="Gambar/P2.4.png"></p>
+<p>Kode HTML muncul karena kita akses API tanpa login dulu atau belum punya izin yang valid. Server anggap kita belum login, jadi langsung ngarahin ke halaman login, makanya yang muncul di Postman adalah tampilan HTML dari halaman login, bukan data JSON seperti yang kita harapkan.</p>
+<hr>
