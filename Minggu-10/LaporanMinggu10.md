@@ -61,3 +61,41 @@ localhost/PWL_POS/public/api/user dan method GET.</p>
     <img src="Gambar/P4.5.png"></p>
 <p>Proses penghapusan data level melalui metode DELETE menggunakan Postman. Endpoint yang digunakan adalah localhost/WebLanjutCindy/Minggu-10/PWL_POS_2/public/api/levels/23, yang menunjukkan bahwa permintaan ini ditujukan untuk menghapus data level dengan level_id bernomor 23. Setelah permintaan dikirim, server memberikan respon dengan status 200 OK, yang berarti bahwa proses penghapusan berhasil dijalankan. Dalam isi respon juga terdapat nilai success: true dan message: "Data terhapus", yang menjadi konfirmasi bahwa data dengan ID tersebut benar-benar telah dihapus dari basis data. Ini adalah contoh penggunaan metode HTTP DELETE dalam operasi RESTful API untuk mengelola data.</p>
 <hr>
+
+<b>Tugas - Implementasi CRUD API pada tabel m_user, m_kategori, dan m_barang <b>
+<p>- User</p>
+<p align="center">
+    <img src="Gambar/T1.png"></p>
+<p align="center">
+    <img src="Gambar/T2.png"></p>
+<p align="center">
+    <img src="Gambar/T3.png"></p>
+<p align="center">
+    <img src="Gambar/T4.png"></p>
+<p align="center">
+    <img src="Gambar/T5.png"></p>
+
+<p>- Kategori</p>
+<p align="center">
+    <img src="Gambar/T6.png"></p>
+<p align="center">
+    <img src="Gambar/T7.png"></p>
+<p align="center">
+    <img src="Gambar/T8.png"></p>
+<p align="center">
+    <img src="Gambar/T9.png"></p>
+<p align="center">
+    <img src="Gambar/T10.png"></p>
+
+<p>- Barang</p>
+<p align="center">
+    <img src="Gambar/T11.png"></p>
+<p align="center">
+    <img src="Gambar/T12.png"></p>
+<p align="center">
+    <img src="Gambar/T13.png"></p>
+<p align="center">
+    <img src="Gambar/T14.png"></p>
+<p align="center">
+    <img src="Gambar/T15.png"></p>
+<hr>
